@@ -1,0 +1,79 @@
+/* poppins fonts */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;900&display=swap');
+
+
+/*-------------------
+    Utilities
+-------------------*/
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+
+/*------------------
+    Header Styles
+--------------------*/
+header{
+    background-color: #264653;
+}
+.button-clr {
+    background-color: #E76F51;
+}
+.font-sz{
+    font-size: 48px;
+}
+.color{
+    color: #E76F51;
+}
+
+
+/*--------------------------
+    Main Content Styles
+----------------------------*/
+
+/* Feture Section */
+.feture-sec{
+    margin-top: 66px;
+}
+.feture-container{
+    width: 288px;
+    height: 243px;
+    margin:120px 0 120px 0;
+}
+
+/* Latest-News Section */
+.latest-container{
+    margin-top: 39px;
+}
+.image-of-latest{
+    height: 92%;
+    width: 92%;
+    margin: 14px 0 14px 14px;
+}
+
+.latest-button{
+    margin-top: 40px;
+}
+/* Clients Styles */
+.client-img{
+    height: 177px;
+    width: 164px;
+}
+.clients-text{
+    color: #E76F51;
+}
+
+/* FAQ Section */
+
+.faq-img{
+    height: 441px;
+}
+
+/* Subscribe Section  */
+.subscribe{
+    height: 300px;
+    background-color: bisque;
+}
+.subscribe h6{
+    color: gray;
+}
